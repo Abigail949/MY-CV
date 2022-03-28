@@ -1,6 +1,7 @@
+********************************** TAG SELECTOR ***********************************/
 body {
   background-color: aquamarine;
-  background-image: radial-gradient(aquamarine, white); 
+  background-image:radial-gradient(aquamarine, white); 
 }
 
 h1{
@@ -14,7 +15,6 @@ img {
 h3{
 color: green
 }
-
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -26,3 +26,7 @@ hr {
 img{
   background-color: blue;
 }
+/*
+img {background-color: green;}
+*/
+/*************************************CLASS SELECTOR ******************************/
